@@ -2,7 +2,8 @@
 <h1 align="center">
     <img align="center" src="images/curriculum.svg" width="150px;" alt="logo"/>
 </h1>
-Currículo básico desenvolvido com HTML e CSS.
+
+Currículo básico desenvolvido para a disciplina DM121 (Introdução ao desenvolvimento Web: HTML5, CSS3 e JavaScript)
 
 ---
 
